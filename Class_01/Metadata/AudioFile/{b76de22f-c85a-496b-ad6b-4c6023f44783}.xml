@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{b76de22f-c85a-496b-ad6b-4c6023f44783}">
 		<property name="assetPath">
-			<value>D Maj.wav</value>
+			<value>MUSIC/D Maj.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>21</value>
+			<value>20.930229166666667</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{3baa1a25-517e-49bd-89b6-714859dc1061}</destination>
